@@ -100,7 +100,7 @@ Contributions are welcome! If you'd like to contribute:
 
 ## **Contact**
 - **Author**: Athul Krishnav V. V.
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**:athulkrishnavijayan02@gmail.com
+- **LinkedIn**:https://www.linkedin.com/in/athulkrishnavv/
 
 ---
